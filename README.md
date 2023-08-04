@@ -87,3 +87,11 @@ I conducted Trello REST API tests using the Postman tool. The tests were based o
 * <b> Delete </b> - Delete checkItem on a Card
 ![Delete checkItem on a Card](https://raw.githubusercontent.com/Caounee/Trello_REST_API/images/18.%20Delete%20checkItem%20on%20a%20Card.jpg)
 
+* <b> Delete </b> - Delete a Checklist on a Card
+![Delete a Checklist on a Card](https://raw.githubusercontent.com/Caounee/Trello_REST_API/images/19.%20Delete%20a%20Checklist%20on%20a%20Card.jpg)
+
+* <b> Delete </b> - Delete a Card
+![Delete a Card](https://raw.githubusercontent.com/Caounee/Trello_REST_API/images/20.%20Delete%20a%20Card.jpg)
+
+* <b> Delete </b> - Delete a Board
+![Delete a Board](https://raw.githubusercontent.com/Caounee/Trello_REST_API/images/21.%20Delete%20a%20Board.jpg)
