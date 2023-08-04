@@ -4,7 +4,8 @@ I conducted Trello REST API tests using the Postman tool. The tests were based o
 
 ## :sparkles: Test scope:
 - **Board**
-  - Create a Board
+  - [Create a Board](#create_a_board)
+
   - Get Boards
   - Get a Board
   - Update a Board
@@ -33,7 +34,8 @@ I conducted Trello REST API tests using the Postman tool. The tests were based o
 
 ## :sparkles: Screenshots:
 
-* <b> Board </b> - Create a Board
+*  <b><a id="create_a_board">Create a Board</a></b>
+
 ![Create a Board](https://raw.githubusercontent.com/Caounee/Trello_REST_API/images/1.%20Create%20a%20Board.jpg)
 
 * <b> Board </b> - Get Boards
