@@ -30,3 +30,23 @@ I conducted Trello REST API tests using the Postman tool. The tests were based o
   - Delete a Checklist on a Card
   - Delete a Card
   - Delete a Board
+
+## :sparkles: Screenshots:
+
+* <b> Board </b> - Create a Board
+![Create a Board](https://raw.githubusercontent.com/Caounee/Trello_REST_API/images/1.%20Create%20a%20Board.jpg)
+
+* <b> Board </b> - Get Boards
+![Get Boards](https://raw.githubusercontent.com/Caounee/Trello_REST_API/images/2.%20Get%20Boards.jpg)
+
+* <b> Board </b> - Get a Board
+![Get a Board](https://raw.githubusercontent.com/Caounee/Trello_REST_API/images/3.%20Get%20a%20Board.jpg)
+
+* <b> Board </b> - Update a Board
+![Update a Board](https://raw.githubusercontent.com/Caounee/Trello_REST_API/images/4.%20Update%20a%20Board.jpg)
+
+* <b> List </b> - Create a List on a Board
+![Create a List on a Board](https://raw.githubusercontent.com/Caounee/Trello_REST_API/images/5.%20Create%20a%20List%20on%20a%20Board.jpg)
+
+* <b> List </b> - Get Lists on a Board
+![Get Lists on a Board](https://raw.githubusercontent.com/Caounee/Trello_REST_API/images/6.%20Get%20Lists%20on%20a%20Board.jpg)
