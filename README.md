@@ -3,7 +3,7 @@
 I performed Trello REST API tests based on the [Trello API documentation](https://developer.atlassian.com/cloud/trello/rest/api-group-actions/). I used the Postman tool. I grouped the tests into several sets: <i> •  board •  list •  card •  checklist •  checkItem •  delete. </i>
 
 ## :sparkles: Test scope:
-- **Board**
+- [**Board**](#board)
   - [Create a Board](#create_a_board)
   - [Get Boards](#get_boards)
   - [Get a Board](#get_a_board)
@@ -33,6 +33,7 @@ I performed Trello REST API tests based on the [Trello API documentation](https:
 
 ## :sparkles: Screenshots:
 
+### <a id="board"> Board </a>
 * <a id="create_a_board"><b> Board </b> - Create a Board </a>
 ![Create a Board](https://raw.githubusercontent.com/Caounee/Trello_REST_API/images/1.%20Create%20a%20Board.jpg)
 
