@@ -45,7 +45,7 @@ I performed Trello REST API tests based on the [Trello API documentation](https:
 
 * <a id="update_a_board"><b> Board </b> - Update a Board </a>
 ![Update a Board](https://raw.githubusercontent.com/Caounee/Trello_REST_API/images/4.%20Update%20a%20Board.jpg)
-
+_______________
 ### <a id="list"> List </a>
 * <a id="create_a_list_on_a_board"><b> List </b> - Create a List on a Board </a>
 ![Create a List on a Board](https://raw.githubusercontent.com/Caounee/Trello_REST_API/images/5.%20Create%20a%20List%20on%20a%20Board.jpg)
@@ -58,7 +58,7 @@ I performed Trello REST API tests based on the [Trello API documentation](https:
 
 * <a id="update_a_list"><b> List </b> - Update a List </a>
 ![Update a List](https://raw.githubusercontent.com/Caounee/Trello_REST_API/images/8.%20Update%20a%20List.jpg)
-
+_______________
 ### <a id="card"> Card </a>
 * <a id="create_a_new_card"><b> Card </b> - Create a new Card </a>
 ![Create a new Card](https://raw.githubusercontent.com/Caounee/Trello_REST_API/images/9.%20Create%20a%20new%20Card.jpg)
@@ -71,14 +71,14 @@ I performed Trello REST API tests based on the [Trello API documentation](https:
 
 * <a id="update_a_card"><b> Card </b> - Update a Card </a>
 ![Update a Card](https://raw.githubusercontent.com/Caounee/Trello_REST_API/images/12.%20Update%20a%20Card.jpg)
-
+_______________
 ### <a id="checklist"> Checklist </a>
 * <a id="create_checklist_on_a_card"><b> Checklist </b> - Create Checklist on a Card </a>
 ![Create Checklist on a Card](https://raw.githubusercontent.com/Caounee/Trello_REST_API/images/13.%20Create%20Checklist%20on%20a%20Card.jpg)
 
 * <a id="get_checklists_on_a_card"><b> Checklist </b> - Get Checklists on a Card </a>
 ![Get Checklists on a Card](https://raw.githubusercontent.com/Caounee/Trello_REST_API/images/14.%20Get%20Checklists%20on%20a%20Card.jpg)
-
+_______________
 ### <a id="checkitem"> CheckItem </a>
 * <a id="create_checkitem_on_checklist"><b> CheckItem </b> - Create checkItem on Checklist </a>
 ![Create checkItem on Checklist](https://raw.githubusercontent.com/Caounee/Trello_REST_API/images/15.%20Create%20checkItem%20on%20Checklist.jpg)
@@ -88,7 +88,7 @@ I performed Trello REST API tests based on the [Trello API documentation](https:
 
 * <a id="update_a_checkitem_on_a_card"><b> CheckItem </b> - Update a checkItem on a Card </a>
 ![Update a checkItem on a Card](https://raw.githubusercontent.com/Caounee/Trello_REST_API/images/17.%20Update%20a%20checkItem%20on%20a%20Card.jpg)
-
+_______________
 ### <a id="delete"> Delete </a>
 * <a id="delete_checkitem_on_a_card"><b> Delete </b> - Delete checkItem on a Card </a>
 ![Delete checkItem on a Card](https://raw.githubusercontent.com/Caounee/Trello_REST_API/images/18.%20Delete%20checkItem%20on%20a%20Card.jpg)
