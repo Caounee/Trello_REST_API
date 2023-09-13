@@ -8,24 +8,24 @@ I performed Trello REST API tests based on the [Trello API documentation](https:
   - [Get Boards](#get_boards)
   - [Get a Board](#get_a_board)
   - [Update a Board](#update_a_board)
-- **List**
+- [**List**](#list)
   - [Create a List on a Board](#create_a_list_on_a_board)
   - [Get Lists on a Board](#get_lists_on_a_board)
   - [Get a List](#get_a_list)
   - [Update a List](#update_a_list)
-- **Card**
+- [**Card**](#card)
   - [Create a new Card](#create_a_new_card)
   - [Gets Cards on a Board](#get_cards_on_a_board)
   - [Get a Card on a Board](#get_a_card_on_a_board)
   - [Update a Card](#update_a_card)
-- **Checklist**
+- [**Checklist**](#checklist)
   - [Create a Checklist on a Card](#create_checklist_on_a_card)
   - [Get Checklists on a Card](#get_checklists_on_a_card)
-- **CheckItem**
+- [**CheckItem**](#checkitem)
   - [Create checkItem on Checklist](#create_checkitem_on_checklist)
   - [Get checkItems on a Checklist](#get_checkitems_on_a_checklist)
   - [Update a checkItem on a Card](#update_a_checkitem_on_a_card)
-- **Delete**
+- [**Delete**](#delete)
   - [Delete checkItem on a Card](#delete_checkitem_on_a_card)
   - [Delete a Checklist on a Card](#delete_a_checklist_on_a_card)
   - [Delete a Card](#delete_a_card)
