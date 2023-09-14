@@ -1,6 +1,6 @@
 # :boom: Trello REST API testing [Postman] :boom:
 
-I performed Trello REST API tests based on the [Trello API documentation](https://developer.atlassian.com/cloud/trello/rest/api-group-actions/). I used the Postman tool. I grouped the tests into several sets: <i> •  board •  list •  card •  checklist •  checkItem •  delete. </i>
+I performed Trello REST API tests based on the [Trello API documentation](https://developer.atlassian.com/cloud/trello/rest/api-group-actions/). I used the Postman tool.
 
 ## :sparkles: Test scope:
 - ☑️ [**Board**](#board)
