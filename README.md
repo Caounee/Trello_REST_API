@@ -2,6 +2,8 @@
 
 I performed Trello REST API tests based on the [Trello API documentation](https://developer.atlassian.com/cloud/trello/rest/api-group-actions/). I used the Postman tool.
 
+✔️ [test screenshots on Google Drive](https://drive.google.com/drive/folders/1BWqutdrAeGkVVaAmwRAnqMxxraWnwx99?usp=sharing)
+
 ## :sparkles: Test scope:
 - ☑️ [**Board**](#board)
   - [Create a Board](#create_a_board)
