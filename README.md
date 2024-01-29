@@ -1,6 +1,10 @@
 # :boom: Trello REST API testing [Postman] :boom:
 
-I performed Trello REST API tests based on the [Trello API documentation](https://developer.atlassian.com/cloud/trello/rest/api-group-actions/). I used the Postman tool.
+By testing Trello API, we can check how the interaction with the Trello application works. I based my tests on the [Trello API documentation](https://developer.atlassian.com/cloud/trello/rest/api-group-actions/). I grouped the tests into several sets: <i> •  board •  list •  card •  checklist •  checkitem •  delete. </i>
+
+* technologies: REST API
+* tools: Postman
+* methods: create, get, update, delete
 
 ✔️ [test screenshots on Google Drive](https://drive.google.com/drive/folders/1BWqutdrAeGkVVaAmwRAnqMxxraWnwx99?usp=sharing)
 
