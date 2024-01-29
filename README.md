@@ -17,7 +17,7 @@ I performed Trello REST API tests based on the [Trello API documentation](https:
   - [Update a List](#update_a_list)
 - ☑️ [**Card**](#card)
   - [Create a new Card](#create_a_new_card)
-  - [Gets Cards on a Board](#get_cards_on_a_board)
+  - [Get Cards on a Board](#get_cards_on_a_board)
   - [Get a Card on a Board](#get_a_card_on_a_board)
   - [Update a Card](#update_a_card)
 - ☑️ [**Checklist**](#checklist)
